@@ -20,9 +20,11 @@ or any other products.
 I used a raspberry pi 4 with this Screen: https://www.amazon.com/gp/product/B08343QX67/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
 Video demo below:
+
 [![Demo Here](http://i3.ytimg.com/vi/gQHTQh_N-Go/hqdefault.jpg)](https://youtu.be/gQHTQh_N-Go)
 
 Screenshots below:
+
 ![Termon Screenshot](https://i.imgur.com/2jbiCNp.png) 
 
 ![Termon Screenshot](https://i.imgur.com/nxNTHO9.png) 
