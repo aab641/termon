@@ -23,6 +23,10 @@ Video demo below:
 
 [![Demo Here](http://i3.ytimg.com/vi/gQHTQh_N-Go/hqdefault.jpg)](https://youtu.be/gQHTQh_N-Go)
 
+Color Scheme:
+
+![Termon Screenshot](https://i.imgur.com/67ov0qH.png) 
+
 Screenshots below:
 
 ![Termon Screenshot](https://i.imgur.com/2jbiCNp.png) 
