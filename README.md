@@ -6,13 +6,13 @@ The server application makes your hardware vitals accessible; serving a json web
 
 This client application is designed to neatly print that JSON data using Java in Terminal or Command Prompt.
 
-I would recommend editing /etc/rc.local on the raspberry pi and inserting a statement below.
+I would recommend editing /etc/rc.local on the raspberry pi and replacing the last line with the statement below.
 
-Run with "Java -jar termon.jar [Refresh in Miliseconds] [Instert Desktop IP Here]"
+'Java -jar termon.jar [Refresh in Miliseconds] [Instert Desktop IP Here] & exit 0'
 
-ex: Java -jar termon.jar 1000 192.168.1.245:8080
+If you would to run the script manually; here is an example: 'Java -jar termon.jar 1000 192.168.1.245:8080'
 
-Right now it is setup to look for keywords using NVIDIA & INTEL.
+Right now it is setup to look for GPUs with the keyword "NVIDIA".
 I do not have AMD products so I have not made it look for AMD products.
 You may download the source and re-appropiate it for your needs. It should be extremely simple changes to support AMD
 or any other products.
