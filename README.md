@@ -8,7 +8,7 @@ This client application is designed to neatly print that JSON data using Java in
 
 I would recommend editing /etc/rc.local on the raspberry pi and replacing the last line with the statement below.
 
-`Java -jar termon.jar [Refresh in Miliseconds] [Instert Desktop IP Here] & exit 0`
+`Java -jar termon.jar [Refresh in Miliseconds] [Insert Desktop IP Here] & exit 0`
 
 If you would to run the script manually; here is an example: `Java -jar termon.jar 1000 192.168.1.245:8080`
 
