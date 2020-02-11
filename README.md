@@ -1,6 +1,6 @@
 # termon
 Raspberry Pi Hardware Monitor Application. See CPU &amp; GPU Performance of your Desktop/Laptop from a raspberry pi.
-This is a client application, please download the server application from https://openhardwaremonitor.org/downloads/
+termon is a client application, Open Hardware Monitor is the server application from https://openhardwaremonitor.org/downloads/
 
 The server application makes your hardware vitals accessible; serving a json webpage with all the information needed.
 
