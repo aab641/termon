@@ -22,3 +22,5 @@ I used a raspberry pi 4 with this Screen: https://www.amazon.com/gp/product/B083
 [![Demo Here](https://i9.ytimg.com/vi/gQHTQh_N-Go/mqdefault.jpg?time=1581367878870&sqp=CPiDh_IF&rs=AOn4CLDM7_JWa5zXZ3BLfPSOmkXYkRqPJA)](https://youtu.be/gQHTQh_N-Go)
 
 ![Termon Screenshot](https://i.imgur.com/2jbiCNp.png) 
+
+![Termon Screenshot](https://i.imgur.com/nxNTHO9.png) 
